@@ -1,6 +1,5 @@
 
-
-## Covid analysis: 🔗 
+## Covid analysis: 
 
 This analysis shed light on the impact and reach of COVID-19 in different regions in the world.
 
@@ -9,7 +8,7 @@ This analysis shed light on the impact and reach of COVID-19 in different region
 
 
 
-## General Overview: 🔗 
+## General Overview: 
 
 
 Extracted fundamental data points like total cases, new cases, total deaths, and more, sorted by location and date.
